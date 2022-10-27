@@ -1,10 +1,13 @@
 {
-  "name": "F6shyUzsdKGFYbiPricsJDxh0utDpBU8LNDZG3DzWAiIsn2wRy",
+  "name": "หวยไต้หวันล่าสุด สรุปว่าอะไร - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.56",
   "description": "หวยไต้หวันล่าสุด ดูบอลสด ถึง หวยไต้หวันล่าสุด Huaylike หวยไลค์ หวยออนไลน์ มีหวยทุกชนิด ทีมชาติไทย ดูบอลสด ไทย Vs ติมอร์ เลสเต ดูบอลสด ไทย พบ ติมอร์ เลสเต ด",
   "repository": "https://github.com/gullibles-02/underdoor-06",
-  "keywords": ["หวยไต้หวันล่าสุด","หวยไต้หวันล่าสุด Huaylike"],
+  "keywords": [
+    "หวยไต้หวันล่าสุด",
+    "หวยไต้หวันล่าสุด Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
