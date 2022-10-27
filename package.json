@@ -1,10 +1,20 @@
 {
-  "name": "ue3Ow6lpYvMFbwKZgrp8eiaZ7lxanznV1wH4bDCUzIO8oXZlwO",
+  "name": "ยี่กี 3 ตัวตรง ทุนน้อย ได้อย่างไร - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "ยี่กี 3 ตัวตรง ทุนน้อย วันนี้ทีมงาน กับ ยี่กี 3 ตัวตรง ทุนน้อย Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด Lotto88 ได้นำเลขเด็ด แนวทางหวยรัฐบาลแจกฟรี หวยซ",
   "repository": "https://github.com/gullibles-02/underdoor-06",
-  "keywords": ["ยี่กี 3 ตัวตรง ทุนน้อย","ยี่กี","3","ตัวตรง","ทุนน้อย","ยี่กี Huay Happy","3 Huay Happy","ตัวตรง Huay Happy","ทุนน้อย Huay Happy"],
+  "keywords": [
+    "ยี่กี 3 ตัวตรง ทุนน้อย",
+    "ยี่กี",
+    "3",
+    "ตัวตรง",
+    "ทุนน้อย",
+    "ยี่กี Huay Happy",
+    "3 Huay Happy",
+    "ตัวตรง Huay Happy",
+    "ทุนน้อย Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
