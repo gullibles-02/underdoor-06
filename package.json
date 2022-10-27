@@ -1,10 +1,16 @@
 {
-  "name": "eDDmpAaKFdIGYhmwfCqPk5vZfo363yJ6EGgIedbsm3996WYrQK",
+  "name": "เว็บ lucky ดูที่ไหน - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.31",
   "description": "เว็บ Lucky เว็บ ครั้น เว็บ Lucky Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด ซื้อหวยออนไลน์ เว็บ Lucky เว็บรีวิวหวยออนไลน์ อันดับ 1 ของไทย มีเลขเด็ดเลขดัง",
   "repository": "https://github.com/gullibles-02/underdoor-06",
-  "keywords": ["เว็บ LUCKY","เว็บ","LUCKY","เว็บ Huay Happy","LUCKY Huay Happy"],
+  "keywords": [
+    "เว็บ LUCKY",
+    "เว็บ",
+    "LUCKY",
+    "เว็บ Huay Happy",
+    "LUCKY Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
