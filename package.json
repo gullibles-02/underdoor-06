@@ -1,10 +1,20 @@
 {
-  "name": "bive3haRpteY2sQKDNTTST6XunzznBjkBYcgqe4H3zkAnh66cs",
+  "name": "ผลหวย รัสเซีย เมื่อ วาน เล่นที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.41",
   "description": "ผลหวย รัสเซีย เมื่อ วาน หวยพม่ามีกติกาการแทงหวยอย่างไรบ้างหวยพม่า สำหรับ ผลหวย รัสเซีย เมื่อ วาน Thailotto หวยออนไลน์ อันดับหนึ่ง 2 D รอบเช้า และรอบบ่าย มี",
   "repository": "https://github.com/gullibles-02/underdoor-06",
-  "keywords": ["ผลหวย รัสเซีย เมื่อ วาน","ผลหวย","รัสเซีย","เมื่อ","วาน","ผลหวย Thailotto","รัสเซีย Thailotto","เมื่อ Thailotto","วาน Thailotto"],
+  "keywords": [
+    "ผลหวย รัสเซีย เมื่อ วาน",
+    "ผลหวย",
+    "รัสเซีย",
+    "เมื่อ",
+    "วาน",
+    "ผลหวย Thailotto",
+    "รัสเซีย Thailotto",
+    "เมื่อ Thailotto",
+    "วาน Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
