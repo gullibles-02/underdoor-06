@@ -1,16 +1,10 @@
 {
-  "name": "app ซื้อลอตเตอรี่ออนไลน์ สมัครยังไง - เว็บใหม่ huay 2023 ล่าสุด",
+  "name": "hce2jbxdVcI7Ha8yzadoamRLoeQxA3fvOhWYWqCpClvEpVgwaV",
   "theme": "syntax",
   "version": "1.0.46",
-  "description": "app ซื้อลอตเตอรี่ออนไลน์ รางวัลที่ จาก app ซื้อลอตเตอรี่ออนไลน์ ที่ Huay เว็บหวยออนไลน์ อันดับหนึ่ง 1 แรงสุด 4 เด่นรอง 5 เด่นปานกลาง app ซื้อลอตเตอรี่ออนไล",
+  "description": "ดาวโจนส์สตาร์ สด Epl โดย ดาวโจนส์สตาร์ สด Ltobet หวยออนไลน์ อันดับหนึ่ง English Premier League ช่องดูบอลสด แมนยู ช่องดูบอลสด แมนยู Vs นอริช ช่องดูบอลสด แมน",
   "repository": "https://github.com/gullibles-02/underdoor-06",
-  "keywords": [
-    "APP ซื้อลอตเตอรี่ออนไลน์",
-    "APP",
-    "ซื้อลอตเตอรี่ออนไลน์",
-    "APP Huay",
-    "ซื้อลอตเตอรี่ออนไลน์ Huay"
-  ],
+  "keywords": ["ดาวโจนส์สตาร์ สด","ดาวโจนส์สตาร์","สด","ดาวโจนส์สตาร์ Ltobet","สด Ltobet"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
