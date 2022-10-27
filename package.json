@@ -1,10 +1,22 @@
 {
-  "name": "lgkNBijQfPXQMGvMq4txYDn97yOI2HyGq9KMNthNVundiM7537",
+  "name": "ย้าย ไป ไม่ อา มี เล่นที่ไหน - เว็บใหม่ slotxo 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.54",
   "description": "ย้าย ไป ไม่ อา มี สมัครระบบหวย หากว่า ย้าย ไป ไม่ อา มี ที่ SlotXO เว็บพนัน อันดับหนึ่ง หวยนาคา 999 หวยออนไลน์ ทันสมัยระบบเล่นง่าย ไม่จำกัดการซื้อได้ทุกประ",
   "repository": "https://github.com/gullibles-02/underdoor-06",
-  "keywords": ["ย้าย ไป ไม่ อา มี","ย้าย","ไป","ไม่","อา","มี","ย้าย SlotXO","ไป SlotXO","ไม่ SlotXO","อา SlotXO","มี SlotXO"],
+  "keywords": [
+    "ย้าย ไป ไม่ อา มี",
+    "ย้าย",
+    "ไป",
+    "ไม่",
+    "อา",
+    "มี",
+    "ย้าย SlotXO",
+    "ไป SlotXO",
+    "ไม่ SlotXO",
+    "อา SlotXO",
+    "มี SlotXO"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
