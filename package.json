@@ -1,10 +1,13 @@
 {
-  "name": "qJJwYzkpLmkUxuhQRnJcb36vfofhh6hwWYYS9EHxBEyXmw9iV0",
+  "name": "ผลหวยรัสเซียวันนี้ ดูที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.35",
   "description": "ผลหวยรัสเซียวันนี้ หวยไทยรัฐ กับ ผลหวยรัสเซียวันนี้ ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง ชุดตารางเลขเด่นผลงานดีจากสำนักพิมพ์ดังที่น่าติดตาม เช่นเดียวกั",
   "repository": "https://github.com/gullibles-02/underdoor-06",
-  "keywords": ["ผลหวยรัสเซียวันนี้","ผลหวยรัสเซียวันนี้ Thailotto"],
+  "keywords": [
+    "ผลหวยรัสเซียวันนี้",
+    "ผลหวยรัสเซียวันนี้ Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
