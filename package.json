@@ -1,10 +1,13 @@
 {
-  "name": "epj4ZSbLxMXAKiW2mpN7x2DRWpIbS4dHCnOdJP7FTbHNvaJXn2",
+  "name": "ซื้อหวยเกาหลี ทำไมถึงนิยม - เว็บใหม่ 77lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.72",
   "description": "ซื้อหวยเกาหลี หากยังไม่เป็นเป็นสมาชิกให้ไปที่หน้า เว้นแต่ ซื้อหวยเกาหลี ที่ 77Lotto เว็บหวยออนไลน์ อันดับหนึ่ง สมัครซื้อหวยออนไลน์ แล้วจากนั้นทำตามขั้นตอนส",
   "repository": "https://github.com/gullibles-02/underdoor-06",
-  "keywords": ["ซื้อหวยเกาหลี","ซื้อหวยเกาหลี 77Lotto"],
+  "keywords": [
+    "ซื้อหวยเกาหลี",
+    "ซื้อหวยเกาหลี 77Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
