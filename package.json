@@ -1,10 +1,18 @@
 {
-  "name": "oLPojEtuMr3krjWUY5OTTHj8oYaToODKt665xirGKghBBGmCHU",
+  "name": "สิง ปิด เย็น ดูที่ไหน - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.63",
   "description": "สิง ปิด เย็น Mawinbet เว้นแต่ สิง ปิด เย็น ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง คาสิโน สุดยอดของเว็บคาสิโนออนไลน์แจกโบนัสฟรีเครดิตให้แก่นักเดิมพันทุกท่าน",
   "repository": "https://github.com/gullibles-02/underdoor-06",
-  "keywords": ["สิง ปิด เย็น","สิง","ปิด","เย็น","สิง Huaydee","ปิด Huaydee","เย็น Huaydee"],
+  "keywords": [
+    "สิง ปิด เย็น",
+    "สิง",
+    "ปิด",
+    "เย็น",
+    "สิง Huaydee",
+    "ปิด Huaydee",
+    "เย็น Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
